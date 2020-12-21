@@ -1,0 +1,28 @@
+#+TITLE: 
+#+LATEX_HEADER: \shorttitle{}
+#+AUTHOR: 
+#+EMAIL: 
+#+OPTIONS: tasks:nil
+#+OPTIONS: toc:nil
+#+TODO: TODO | DONE NOEXPORT
+#+LATEX_CLASS: apa6
+#+LATEX_CLASS_OPTIONS: [man, 12pt, a4paper]
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{apacite}
+#+LATEX_HEADER: \usepackage[american]{babel}
+#+LATEX_HEADER: \usepackage{csquotes}
+#+LATEX_HEADER: \interfootnotelinepenalty=10000
+#+LATEX_HEADER: \affiliation{}
+#+LATEX_HEADER: \abstract{}
+#+LATEX_HEADER: \keywords{}
+#+LATEX_HEADER: \authornote{}
+
+* Section
+** Subsection
+*** Subsubsection
+[fn:1]
+
+[fn:1] This is a footnote.
+
+bibliographystyle:apacite
+bibliography:library.bib
